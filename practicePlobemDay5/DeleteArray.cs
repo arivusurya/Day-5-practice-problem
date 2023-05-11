@@ -14,5 +14,11 @@ namespace practicePlobemDay5
             array = Array.FindAll(array , item => item != element);
             System.Console.WriteLine(String.Join(',',array));
         }
+
+        public void Deletemethodgeneric<T>(T[] array,T element){
+            array = Array.FindAll(array , item => !item.Equals(element));
+            System.Console.WriteLine(String.Join(',',array));
+            
+        }
     }
 }

@@ -15,6 +15,10 @@ namespace practicePlobemDay5{
             deleteArray.Deletemethodint(intarray,5);
             deleteArray.Deletemethodfloat(floatarray,1.8f);
             deleteArray.Deletemethodchar(chararray,'f');
+             deleteArray.Deletemethodgeneric(chararray,'f');   
+             deleteArray.Deletemethodgeneric(floatarray,1.8f);   
+             deleteArray.Deletemethodgeneric(intarray,5);   
+
         }
     }
 }
