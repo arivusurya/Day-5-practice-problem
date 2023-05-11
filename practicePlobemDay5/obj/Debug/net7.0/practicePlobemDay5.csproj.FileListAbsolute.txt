@@ -1,0 +1,15 @@
+/home/arivusurya/Desktop/dotnet-developement/dotnet-remap-assinment/day5-practiceProbblem/Day-5-practice-problem/practicePlobemDay5/obj/Debug/net7.0/practicePlobemDay5.csproj.AssemblyReference.cache
+/home/arivusurya/Desktop/dotnet-developement/dotnet-remap-assinment/day5-practiceProbblem/Day-5-practice-problem/practicePlobemDay5/obj/Debug/net7.0/practicePlobemDay5.GeneratedMSBuildEditorConfig.editorconfig
+/home/arivusurya/Desktop/dotnet-developement/dotnet-remap-assinment/day5-practiceProbblem/Day-5-practice-problem/practicePlobemDay5/obj/Debug/net7.0/practicePlobemDay5.AssemblyInfoInputs.cache
+/home/arivusurya/Desktop/dotnet-developement/dotnet-remap-assinment/day5-practiceProbblem/Day-5-practice-problem/practicePlobemDay5/obj/Debug/net7.0/practicePlobemDay5.AssemblyInfo.cs
+/home/arivusurya/Desktop/dotnet-developement/dotnet-remap-assinment/day5-practiceProbblem/Day-5-practice-problem/practicePlobemDay5/obj/Debug/net7.0/practicePlobemDay5.csproj.CoreCompileInputs.cache
+/home/arivusurya/Desktop/dotnet-developement/dotnet-remap-assinment/day5-practiceProbblem/Day-5-practice-problem/practicePlobemDay5/bin/Debug/net7.0/practicePlobemDay5
+/home/arivusurya/Desktop/dotnet-developement/dotnet-remap-assinment/day5-practiceProbblem/Day-5-practice-problem/practicePlobemDay5/bin/Debug/net7.0/practicePlobemDay5.deps.json
+/home/arivusurya/Desktop/dotnet-developement/dotnet-remap-assinment/day5-practiceProbblem/Day-5-practice-problem/practicePlobemDay5/bin/Debug/net7.0/practicePlobemDay5.runtimeconfig.json
+/home/arivusurya/Desktop/dotnet-developement/dotnet-remap-assinment/day5-practiceProbblem/Day-5-practice-problem/practicePlobemDay5/bin/Debug/net7.0/practicePlobemDay5.dll
+/home/arivusurya/Desktop/dotnet-developement/dotnet-remap-assinment/day5-practiceProbblem/Day-5-practice-problem/practicePlobemDay5/bin/Debug/net7.0/practicePlobemDay5.pdb
+/home/arivusurya/Desktop/dotnet-developement/dotnet-remap-assinment/day5-practiceProbblem/Day-5-practice-problem/practicePlobemDay5/obj/Debug/net7.0/practicePlobemDay5.dll
+/home/arivusurya/Desktop/dotnet-developement/dotnet-remap-assinment/day5-practiceProbblem/Day-5-practice-problem/practicePlobemDay5/obj/Debug/net7.0/refint/practicePlobemDay5.dll
+/home/arivusurya/Desktop/dotnet-developement/dotnet-remap-assinment/day5-practiceProbblem/Day-5-practice-problem/practicePlobemDay5/obj/Debug/net7.0/practicePlobemDay5.pdb
+/home/arivusurya/Desktop/dotnet-developement/dotnet-remap-assinment/day5-practiceProbblem/Day-5-practice-problem/practicePlobemDay5/obj/Debug/net7.0/practicePlobemDay5.genruntimeconfig.cache
+/home/arivusurya/Desktop/dotnet-developement/dotnet-remap-assinment/day5-practiceProbblem/Day-5-practice-problem/practicePlobemDay5/obj/Debug/net7.0/ref/practicePlobemDay5.dll
